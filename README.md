@@ -5,11 +5,16 @@ A Python project that simulates multiple drones flying through 3D waypoints with
 
 ## 📂 Repository Structure
 .├── README.md
+
  ├── drones_config.json # JSON file defining primary & other drone waypoints, velocities, schedule
+ 
  ├── drone.py # Drone class: follows waypoint list at constant velocity
+ 
  ├── collision_avoidance.py # CollisionAvoidance: predicts and enforces pause on primary
+ 
  ├── visualization.py # Plotly figure builder: 3D trails, markers, collisions, annotations
- └── main.py # Orchestrates loading config, simulation loop, logging & shows UI
+ 
+ └── main.py # loading config, simulation loop, logging & shows UI
 
 ## ⚙️ Prerequisites
 
