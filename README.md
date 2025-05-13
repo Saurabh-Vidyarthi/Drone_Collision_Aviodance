@@ -43,8 +43,6 @@ Define each other drone’s id, fixed velocity, and its 12 waypoints.
 2.Launch: python main.py
 
 🎥 Simulation Demo
-Your looping demo video is embedded below. It will automatically play and loop on GitHub:
-
 <video width="640" controls loop> <source src="demo.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
 
 
