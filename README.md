@@ -42,6 +42,6 @@ Define each other drone’s id, fixed velocity, and its 12 waypoints.
 
 2.Launch: python main.py
 
-<video width="640" controls> <source src="docs/simulation.mp4" type="video/mp4"> 
+<video width="640" controls> <source src="demo.mp4" type="video/mp4"> 
 
 
