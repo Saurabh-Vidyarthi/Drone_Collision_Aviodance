@@ -34,7 +34,7 @@ pip install numpy plotly
 ```
 
 
-1. Edit drones_config.json
+ 1. Edit drones_config.json
 
 Set the primary drone’s start_time, end_time and its list of 12 waypoints.
 
