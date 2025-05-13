@@ -24,14 +24,6 @@ A Python project that simulates multiple drones flying through 3D waypoints with
 
 Install dependencies in a virtual environment:
 
-```bash
-python -m venv .venv
-# macOS/Linux
-source .venv/bin/activate
-# Windows
-.\.venv\Scripts\activate
-pip install numpy plotly
-```
 
 
  1. Edit drones_config.json
